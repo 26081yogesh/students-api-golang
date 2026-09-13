@@ -18,6 +18,7 @@ go.work
 .env
 
 storage
+/config 
 
 # Dependency directories (uncomment if you use vendoring and don't want to commit it)
 # vendor/
