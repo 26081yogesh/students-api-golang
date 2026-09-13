@@ -14,6 +14,11 @@
 # Workspace files (Go work)
 go.work
 
+# env file
+.env
+
+storage
+
 # Dependency directories (uncomment if you use vendoring and don't want to commit it)
 # vendor/
 
